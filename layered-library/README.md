@@ -73,19 +73,19 @@ layered-library/
 
 ## 🚀 How to Run
 
-\`\`\`bash
-# 1. Clone repository
+```bash
+1. Clone repository
 git clone [https://github.com/ch4kkapatPR/ENGSE207-midterm.git]
 
-# 2. Install dependencies
+2. Install dependencies
 npm install
 
-# 3. Run server
+3. Run server
 npm start
 
-# 4. Test API
-# Open browser: http://localhost:3000
-\`\`\`
+4. Test API
+Open browser: http://localhost:3000
+```
 
 ## 📝 API Endpoints
 | Method | Endpoint              | Description             |

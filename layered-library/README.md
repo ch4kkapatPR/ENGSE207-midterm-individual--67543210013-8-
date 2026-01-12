@@ -9,6 +9,7 @@
 Layered Architecture (3-tier)
 
 ## 📂 Project Structure
+```
 layered-library/
 ├── public/                    # Frontend (Static files)
 │   ├── index.html
@@ -49,7 +50,7 @@ layered-library/
 ├── server.js                  # Entry point ของระบบ
 ├── package.json
 └── package-lock.json
-
+```
 ## 🎯 Refactoring Summary
 
 ### ปัญหาของ Monolithic (เดิม):

@@ -75,7 +75,7 @@ layered-library/
 
 ```bash
 1. Clone repository
-git clone [https://github.com/ch4kkapatPR/ENGSE207-midterm.git]
+git clone [https://github.com/ch4kkapatPR/ENGSE207-midterm-individual--67543210013-8-.git]
 
 2. Install dependencies
 npm install
